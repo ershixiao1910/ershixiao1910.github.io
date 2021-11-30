@@ -1,11 +1,11 @@
 ﻿# Site settings
-title: LJQ Blog
-SEOTitle: 刘继强的博客 | LJQ Blog
+title: 十班的家
+SEOTitle: 19级10班的家 | 十班 Blog
 header-img: img/post-bg-desk.jpg
-email: 2265940560@qq.com
-gmail: 2929dch@gmail.com
-description: "此生无悔入软工! | 刘继强，BigData & ML Lover，a software engineering student| 这里是刘继强的个人博客，梦想探索更大的计算机世界！"
-keyword: "LJQ, 刘继强的博客, LJQ Blog, 博客, 个人网站, 互联网, 软件工程, JavaScript, BigData, 后端, ML, AI"
+email: guoxirui@yandex.com
+gmail: guoxirui@yandex.com
+description: "三更灯火五更鸡，正是男儿读书时。"
+keyword: "二实小，19级10班， 十班，郭熙睿"
 url: "https://ershixiao1910.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/ershixiao1910/ershixiao1910.github.io.git" # you code repository
@@ -114,8 +114,5 @@ friends: [
     },{
         title: "Joe's Blog",
         href: "https://hijiangtao.github.io/"
-    },{
-        title: "老王之家",
-        href: "http://wangbf.top/"
     }
 ]
