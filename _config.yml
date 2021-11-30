@@ -12,7 +12,7 @@ github_repo: "https://github.com/ershixiao1910/ershixiao1910.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "景景景景景色分明"
+sidebar-about-description: "十班的生活"
 sidebar-avatar: /img/panda-waving.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar1: /img/grass.png
 
